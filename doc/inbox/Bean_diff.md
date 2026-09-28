@@ -1,4 +1,4 @@
-# Bean 初始化
+# 初始化
 
 ```mermaid
 sequenceDiagram
