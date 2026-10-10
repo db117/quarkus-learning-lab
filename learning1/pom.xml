@@ -79,6 +79,11 @@
                 <artifactId>quarkus-maven-plugin</artifactId>
                 <version>${quarkus.platform.version}</version>
                 <extensions>true</extensions>
+                <configuration>
+                    <systemProperties>
+                        <quarkus.debug.generated-classes-dir>${project.build.directory}/generated-classes</quarkus.debug.generated-classes-dir>
+                    </systemProperties>
+                </configuration>
             </plugin>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>

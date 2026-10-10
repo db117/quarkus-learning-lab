@@ -1,6 +1,6 @@
 # 项目说明
 
-本项目主要用于学习 Quarkus 源码。Quarkus 源码位置为 `/Users/db117/Desktop/learn/quarkus`。
+本项目主要用于学习 Quarkus 源码。
 
 ## Quarkus 源码追踪图与表格
 
